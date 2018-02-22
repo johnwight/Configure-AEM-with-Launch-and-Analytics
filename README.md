@@ -63,17 +63,16 @@ To Setup Adobe Launch:
 
 
 
-Save Rule and go to "Publishing", Click on "Add New Library".
+1. Save the rule and click the **Publishing** tab. Click **Add New Library**.
 
 
 
 
-Give name for the build, select Dev (Development) environment and then click "Add all changed resources".
+1. Provide a **Name** for the build, select the Dev (Development) environment, and then click **Add All Changed Resources**.
 
 
 
-
-Build for development and staging and approve for production.
+1. Build for development and staging and then approve for production.
 
 
 
