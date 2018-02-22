@@ -44,6 +44,8 @@ To Setup Adobe Launch:
 
 1. Enter the rule name as **Analytics** and click the **Add** button under **EVENTS**.
 
+     ![events](https://user-images.githubusercontent.com/29133525/36568978-2ff85e02-17e9-11e8-84b1-41caeefc13af.png)
+
 
 1. Specify the **Event Configuration** options as shown below and click **Keep Changes**.
 
