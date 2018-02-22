@@ -74,6 +74,7 @@ To Setup Adobe Launch:
 
 1. Build for development and staging and then approve for production.
 
+     ![approve](https://user-images.githubusercontent.com/29133525/36567904-4def5bda-17e5-11e8-982f-018ed830170d.png)
 
 
 
