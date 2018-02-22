@@ -53,6 +53,8 @@ To Setup Adobe Launch:
 
 1. Make sure your final Rule definition appears as shown below. Click **Save**.
 
+     ![rule definition](https://user-images.githubusercontent.com/29133525/36568682-236d3460-17e8-11e8-9fa6-3b78c33bcafa.png)
+
 
 1. Click the **Adapters** tab, then click **Add Adapter** and then create an **akamai** adapter as shown below.
 
