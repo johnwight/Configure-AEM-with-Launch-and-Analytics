@@ -38,6 +38,8 @@ To Setup Adobe Launch:
 
 1. Make sure you have the following extensions:
 
+     ![final extensions](https://user-images.githubusercontent.com/29133525/36569456-1c087e34-17eb-11e8-8507-134971212aa9.png)
+
 
 1. Click the **Rules** tab and click on **Create New Rule**.
 
