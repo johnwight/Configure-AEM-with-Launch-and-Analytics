@@ -48,19 +48,17 @@ To Setup Adobe Launch:
 1. Specify the **Event Configuration** options as shown below and click **Keep Changes**.
 
 
-1. Click the **Add** button and specify the following options to send beacon and then click **Keep Changes**.
+1. Click the **Add** button in the **Actions** section and specify the following options to **Send Beacon**. Click **Keep Changes**.
 
 
 1. Make sure your final Rule definition appears as shown below. Click **Save**.
 
 
-
-
-Go to "Adapters", click on "Add Adapter" and create an akamai adapter as shown below.
+1. Click the **Adapters** tab, then click **Add Adapter** and then create an **akamai** adapter as shown below.
 
 
 
-Go to "Environments", click on "Add Environment" and create Dev, Stage and Production environment.
+1. Click the **Environments** tab, then click **Add Environment** and create Dev, Stage, and Production environments.
 
 
 
