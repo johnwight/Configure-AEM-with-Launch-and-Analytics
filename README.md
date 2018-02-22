@@ -47,6 +47,8 @@ To Setup Adobe Launch:
 
 1. Specify the **Event Configuration** options as shown below and click **Keep Changes**.
 
+     ![event config options](https://user-images.githubusercontent.com/29133525/36568862-d01f045e-17e8-11e8-9b75-8ff97818f087.png)
+
 
 1. Click the **Add** button in the **Actions** section and specify the following options to **Send Beacon**. Click **Keep Changes**.
 
