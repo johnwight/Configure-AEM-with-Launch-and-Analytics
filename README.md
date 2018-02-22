@@ -32,7 +32,7 @@ To Setup Adobe Launch:
 
 1. Enter your Adobe Analytics Report Suite ID in the corresponding report suites environments, such as *Production Report Suites*. If you do not have separate environments then please add the same report suite ID for all environments.
 
-*Note: If you do not know how to find the report suite ID, follow the steps below.
+*Note: If you do not know how to find the report suite ID, follow the steps below.*
 
     1. In Analytics (https://sc.omniture.com/login/), login via Marketing Cloud.
 
@@ -46,18 +46,16 @@ To Setup Adobe Launch:
 1. Click the **Rules** tab and click on **Create New Rule**.
 
 
-1.  Enter the rule name as **Analytics** and click te **Add** button under **EVENTS**.
+1. Enter the rule name as **Analytics** and click the **Add** button under **EVENTS**.
 
 
 1. Specify the **Event Configuration** options as shown below and click **Keep Changes**.
 
 
-
-4.8 Click on "+Add" button under action and select below options to send beacon then click "Keep Changes".
-
+1. Click the **Add** button and specify the following options to send beacon and then click **Keep Changes**.
 
 
-4.9 Your final Rule definition should look like this. Click "Save".
+1. Make sure your final Rule definition appears as shown below. Click **Save**.
 
 
 
