@@ -60,6 +60,7 @@ To Setup Adobe Launch:
 
 1. Click the **Environments** tab, then click **Add Environment** and create Dev, Stage, and Production environments.
 
+     ![environments tab](https://user-images.githubusercontent.com/29133525/36568391-0feaf6ee-17e7-11e8-8f0a-441c647d3a1d.png)
 
 
 
