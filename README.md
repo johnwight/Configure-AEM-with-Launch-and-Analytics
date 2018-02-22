@@ -26,7 +26,10 @@ To Setup Adobe Launch:
 
      ![create property box details](https://user-images.githubusercontent.com/29133525/35232087-c8a33c3a-ff57-11e7-82ff-8b68c085726a.png)
 
-1. Click the **Extensions** tab and install the Analytics extensions
+1. Click the **Extensions** tab and install the Analytics extension.
+
+      ![extensions](https://user-images.githubusercontent.com/29133525/35232128-ee66002e-ff57-11e7-9958-5aa36d633d26.png)
+
 
 1. Click on **Adobe Analytics** extension.
 
