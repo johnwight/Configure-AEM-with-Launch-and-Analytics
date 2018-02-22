@@ -56,6 +56,7 @@ To Setup Adobe Launch:
 
 1. Click the **Adapters** tab, then click **Add Adapter** and then create an **akamai** adapter as shown below.
 
+     ![akamai adapter](https://user-images.githubusercontent.com/29133525/36568499-7d9a4c3a-17e7-11e8-895e-2a5c9b7ca307.png)
 
 
 1. Click the **Environments** tab, then click **Add Environment** and create Dev, Stage, and Production environments.
