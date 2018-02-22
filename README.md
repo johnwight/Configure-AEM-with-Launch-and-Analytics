@@ -32,11 +32,7 @@ To Setup Adobe Launch:
 
 1. Enter your Adobe Analytics Report Suite ID in the corresponding report suites environments, such as *Production Report Suites*. If you do not have separate environments then please add the same report suite ID for all environments.
 
-*Note: If you do not know how to find the report suite ID, follow the steps below.*
-
-   1. In Analytics (https://sc.omniture.com/login/), login via Marketing Cloud.
-
-   1. Click **Admin >Report Suites** and create a new report suite or copy an ID of an existing report suite that you want to use.
+1. If you do not know how to find the report suite ID, login via Marketing Cloud in Analytics (https://sc.omniture.com/login/), click **Admin >Report Suites** and create a new report suite or copy an ID of an existing report suite that you want to use.
 
 1. Click **Save** after entering the report suite ID as shown below.
 
