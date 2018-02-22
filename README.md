@@ -50,6 +50,8 @@ To Setup Adobe Launch:
 
 1. Click the **Add** button in the **Actions** section and specify the following options to **Send Beacon**. Click **Keep Changes**.
 
+     ![action options](https://user-images.githubusercontent.com/29133525/36568770-75db8436-17e8-11e8-9396-258793def233.png)
+
 
 1. Make sure your final Rule definition appears as shown below. Click **Save**.
 
