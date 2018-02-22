@@ -70,6 +70,7 @@ To Setup Adobe Launch:
 
 1. Provide a **Name** for the build, select the Dev (Development) environment, and then click **Add All Changed Resources**.
 
+     ![provide build name](https://user-images.githubusercontent.com/29133525/36568047-d72503e6-17e5-11e8-8721-3d81ad67198c.png)
 
 
 1. Build for development and staging and then approve for production.
