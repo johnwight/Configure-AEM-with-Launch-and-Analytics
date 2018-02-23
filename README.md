@@ -203,6 +203,7 @@ To configure Launch with AEM 6.3:
 
 
 1. In **Deployment,** click **Cloud Services**. 
+     
      ![cloud services](https://user-images.githubusercontent.com/29133525/36580320-fb5ce708-1824-11e8-81d9-36fa2dad8885.png)
 
 1. Locate "Dynamic Tag Management" and click "Configure Now".
@@ -216,6 +217,7 @@ To configure Launch with AEM 6.3:
 
 1. In your Dynamic Tag Management profile, click on the DTM Account and copy the API Token.
 
+     ![copy token](https://user-images.githubusercontent.com/29133525/36580487-b4a47afa-1825-11e8-906d-0f03f0328283.png)
 
 
 1. Paste the API token to AEM > DTM Configuration window and click **Connect To DTM**.
