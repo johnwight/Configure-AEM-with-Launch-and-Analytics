@@ -176,6 +176,7 @@ To configure Launch with AEM 6.4:
 
 1. Select the **We.retail** path and save & close the configuration.
 
+     ![save path](https://user-images.githubusercontent.com/29133525/36579710-cca3116a-1821-11e8-92b0-9a6f05f37f22.png)
 
 
 1. Open the We-Retail website. Right click and select **Inspect > Sources**. You will see that the Launch scripts are firing and events are flowing in the designated report suite.
