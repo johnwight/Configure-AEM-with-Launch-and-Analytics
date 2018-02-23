@@ -181,88 +181,76 @@ To configure Launch with AEM 6.4:
 
 1. Open the We-Retail website. Right click and select **Inspect > Sources**. You will see that the Launch scripts are firing and events are flowing in the designated report suite.
 
+     ![scripts fired](https://user-images.githubusercontent.com/29133525/36579751-0372e99a-1822-11e8-93db-1fc1d570abe5.png)
 
 
 
-## <a name="64">Configure with AEM 6.3</a>
+## <a name="63">Configure with AEM 6.3</a>
 
 AEM 6.3 does not have the official connector for Launch. However, to connect your AEM 6.3 instance with Launch, you can follow work around presented below.
 
 To configure Launch with AEM 6.3:
 
 
-Go to your DTM account. (dtm.adobe.com)
-
-Create a dummy empty property "Adobe_Launch". Please do not customize this property as we are not going to use it in our integration.
+1. In your [DTM account](dtm.adobe.com), create a dummy empty property **Adobe_Launch**. Please do not customize this property as we are not using it in our integration.
 
 
 
-Go to AEM 6.3 instance. (e.g. http://localhost:4502/) click on "Tools" (Left panel->The hammer icon).
+1. In your [AEM instance](http://localhost:4502/), click on **Tools** or the Hammer icon in the left panel.
 
 
 
-4. Go to "Deployment" and click on "Cloud Services".
+1. In **Deployment,** click **Cloud Services**. Locate "Dynamic Tag Management" and click "Configure Now".
 
 
 
-5. Locate "Dynamic Tag Management" and click "Configure Now".
+1. Provide a **Title** and **Name** for the configuration and click **Create**.
 
 
 
-6. Provide Title and Name for configuration and click on Create.
+1. In your Dynamic Tag Management profile, click on the DTM Account and copy the API Token.
 
 
 
-7. Go to your Dynamic Tag Management profile. Click on DTM Account and copy the API Token.
+1. Paste the API token to AEM > DTM Configuration window and click **Connect To DTM**.
+
+
+1. Select the company and the dummy property that you previously created.
 
 
 
-8. Paste the API token to AEM→DTM Configuration window and click "Connect To DTM".
+1. Click Staging Settings and Production Settings and uncheck the **Use Self Hosting**.
 
 
 
-
-
-9. Select company and the dummy property that we created in step 2.
-
-
-
-10. Click on Staging Settings and Production Settings and uncheck the "Use Self Hosting".
+1. In Launch > Environments > Staging, copy the header code and replace it in AEM > DTM Configuration Staging Settings Header code section.
 
 
 
-11. Go to Launch->Environments→Staging and copy the header code and replace it in AEM→DTM Configuration Staging Settings Header code section.
+1. In Launch > Environments > Production, copy the header code and replace it in AEM > DTM Configuration Production Settings Header code section. Click **OK**.
 
 
 
-12. Go to Launch->Environments→Production and copy the header code and replace it in AEM→DTM Configuration Production Settings Header code section. Click Ok.
+1. After the configuring, it should appear as shown below. Nake sure the scripts are from Launch environments.
 
 
 
-13. After the configuration it should look like this. Ensure that the scripts are the ones from Launch environments.
+1. In your [AEM instance](http://localhost:4502/), click **Sites**, and open the page in **Card View** from the upper right corner.
 
 
 
-14. Go to AEM instance (http://localhost:4502/) and click on Sites.
+1. Click the **Properties** icon for the website that you want to connect to Launch.
 
 
 
-15. Open the page in "Card View" from the upper right corner.
+1. Click **Cloud Services > Add Configuration** and Select Dynamic Tag Management
 
 
 
-16. Click on the "Properties" icon (info) for the website which you want to connect to Launch.
+1. Select the Launch integration you created in previous steps. Click Save and Close.
 
 
 
-17. Go to Cloud Services→Add Configuration→Select Dynamic Tag Management
-
-
-
-18. Select the Launch integration you created in previous steps. Click Save and Close.
-
-
-
-19. Open the We-Retail website→Right click->Inspect→Click on Sources. You will see that the Launch scripts is getting fired and events are flowing in the designated report suite.
+1. Open the We-Retail website→Right click->Inspect→Click on Sources. You will see that the Launch scripts is getting fired and events are flowing in the designated report suite.
 
 
