@@ -110,6 +110,7 @@ To configure Launch with AEM 6.4:
 
 1. Click **Access an API** and then click **Continue**.
 
+     ![access api](https://user-images.githubusercontent.com/29133525/36578831-faadb772-181c-11e8-9fbc-c9ce50a72e85.png)
 
 
 1. Under **Experience Cloud**, select **Launch, by Adobe** and then click **Continue**.
