@@ -136,6 +136,7 @@ To configure Launch with AEM 6.4:
 
 1. Download the public key certificate by clicking on **Download Public Key**. This certificate needs to be uploaded in the Adobe I/O console integration.
 
+     ![download public key](https://user-images.githubusercontent.com/29133525/36579223-2c42eeea-181f-11e8-92f1-d9b51ce04245.png)
 
 
 
