@@ -204,6 +204,8 @@ To configure Launch with AEM 6.3:
 
 1. In **Deployment,** click **Cloud Services**. Locate "Dynamic Tag Management" and click "Configure Now".
 
+     ![cloud services](https://user-images.githubusercontent.com/29133525/36580320-fb5ce708-1824-11e8-81d9-36fa2dad8885.png)
+
 
 
 1. Provide a **Title** and **Name** for the configuration and click **Create**.
