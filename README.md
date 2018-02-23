@@ -243,14 +243,13 @@ To configure Launch with AEM 6.3:
 
 
 
-1. Click **Cloud Services > Add Configuration** and Select Dynamic Tag Management
+1. Click **Cloud Services > Add Configuration** and Select **Dynamic Tag Management**.
 
 
 
-1. Select the Launch integration you created in previous steps. Click Save and Close.
+1. Select the Launch integration you created in previous steps. Click **Save & Close**.
 
 
-
-1. Open the We-Retail website→Right click->Inspect→Click on Sources. You will see that the Launch scripts is getting fired and events are flowing in the designated report suite.
+1. Open the **We.Retail** website. Right click and select **Inspect > Sources**.  You will see that the Launch scripts are firing and events are flowing in the designated report suite.
 
 
