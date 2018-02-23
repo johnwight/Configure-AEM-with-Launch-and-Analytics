@@ -145,41 +145,37 @@ To configure Launch with AEM 6.4:
 
 
 
-Go to AEM Instance->Tools→Cloud Services→Adobe Launch Configurations.
+1. In your AEM Instance, click **Tools > Cloud Services >Adobe Launch Configurations**.
 
 
 
-Create a new configuration under we-retail website. Select the IMS Config, company and property as shown below.
+1. Create a new configuration under the **We.Retail** website. Select the **Associated Adobe IMS Configuration**, **Company** and **Property** as shown below.
 
 
 
-Go to AEM instance->Sites.
+1. In your AEM instance, click **Sites**, then select **Card View** from upper right corner and click the info properties icon.
 
 
 
-Select "Card View" from upper right corner and click on (info) properties icon.
+1. On the **Advanced** tab, select **Cloud Configuration**.
 
 
 
-Go to Advanced tab and select Cloud Configuration under Configuration.
+1. Select the **We.retail** path and save & close the configuration.
 
 
 
-Select the we-retail path and save & close the configuration.
-
-
-
-Open the We-Retail website→Right click->Inspect→Click on Sources. You will see that the Launch scripts is getting fired and events are flowing in the designated report suite.
+1. Open the We-Retail website. Right click and select **Inspect > Sources**. You will see that the Launch scripts are firing and events are flowing in the designated report suite.
 
 
 
 
+## <a name="64">Configure with AEM 6.3</a>
 
+AEM 6.3 does not have the official connector for Launch. However, to connect your AEM 6.3 instance with Launch, you can follow work around presented below.
 
+To configure Launch with AEM 6.3:
 
-
-Option 2: Launch with AEM 6.3
-AEM 6.3 doesn't have the official connector for Launch. To connect your AEM 6.3 instance with Launch you can follow the below work around:
 
 Go to your DTM account. (dtm.adobe.com)
 
