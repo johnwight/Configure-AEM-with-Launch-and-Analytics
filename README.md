@@ -252,4 +252,15 @@ To configure Launch with AEM 6.3:
 
 1. Open the **We.Retail** website. Right click and select **Inspect > Sources**.  You will see that the Launch scripts are firing and events are flowing in the designated report suite.
 
+## Authors
+- Hiren Shah [@hirenshah111](https://github.com/hirenshah111).
+- John Wight [@johnwight](https://github.com/johnwight).
+
+
+## Feedback?
+
+Please help make this solution as useful as possible. If you find a problem in the documentation or have a suggestion, click the **Issues** tab on this GiHhub repository and then click the **New issue** button. Provide a title and description for your comment and then click the **Submit new issue** button.
+
+   ![submit new issue](https://user-images.githubusercontent.com/29133525/32515298-f344bd5a-c3bc-11e7-9978-34516f964f9f.png)
+
 
