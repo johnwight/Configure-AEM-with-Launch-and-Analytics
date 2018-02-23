@@ -118,7 +118,7 @@ To configure Launch with AEM 6.4:
      ![experience cloud](https://user-images.githubusercontent.com/29133525/36578923-7bf43072-181d-11e8-97f8-0504c22d063d.png)
      
 
-1. Select **New Integration** for fresh setup and click on **Continue**.
+1. Select **New Integration** for fresh setup and click **Continue**.
 
      ![new integration](https://user-images.githubusercontent.com/29133525/36578993-d80482f4-181d-11e8-9526-6c9fdab88e44.png)
 
