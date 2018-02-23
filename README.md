@@ -152,7 +152,7 @@ To configure Launch with AEM 6.4:
 
 1. Return to the AEM IMS Configuration step and provide the copied details from the I/O Console integration. Save the configuration.
 
-     ![integration details](https://user-images.githubusercontent.com/29133525/36579478-8d4a44b2-1820-11e8-8418-95cd380313de.png)
+     ![integration details](https://user-images.githubusercontent.com/29133525/36580153-424cd0c0-1824-11e8-85c4-eefd2f022403.png)
 
 
 1. In your AEM Instance, click **Tools > Cloud Services >Adobe Launch Configurations**.
