@@ -120,6 +120,8 @@ To configure Launch with AEM 6.4:
 
 1. Select **New Integration** for fresh setup and click on **Continue**.
 
+     ![new integration](https://user-images.githubusercontent.com/29133525/36578993-d80482f4-181d-11e8-9526-6c9fdab88e44.png)
+
 
 
 1. In the [AEM instance](http://localhost:4502) in a new window and click **Tools > Security > Adobe IMS Configurations**.
