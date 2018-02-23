@@ -147,6 +147,7 @@ To configure Launch with AEM 6.4:
 
 1. On the **Overview** tab, copy the **Client ID** and **Client Secret**. Then copy the **JWT Payload** and **Authorization Server** info from **JWT** tab.
 
+     ![credentials](https://user-images.githubusercontent.com/29133525/36579438-4ed66512-1820-11e8-9e19-ee8afb3e7c22.png)
 
 
 1. Return to the AEM IMS Configuration step and provide the copied details from the I/O Console integration. Save the configuration.
