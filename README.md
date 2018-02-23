@@ -167,6 +167,7 @@ To configure Launch with AEM 6.4:
 
 1. In your AEM instance, click **Sites**, then select **Card View** from upper right corner and click the info properties icon.
 
+     ![card view](https://user-images.githubusercontent.com/29133525/36579659-7bbad698-1821-11e8-8098-74fbc797c27b.png)
 
 
 1. On the **Advanced** tab, select **Cloud Configuration**.
