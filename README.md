@@ -101,56 +101,47 @@ To Setup Adobe Launch:
 
 
 
+## <a name="64">Configure with AEM 6.4</a>
+
+To configure Launch with AEM 6.4:
+
+1. On the [Adobe I/O Console](https://console.adobe.io), click **New Integration**.
+
+
+1. Click **Access an API** and then click **Continue**.
+
+
+
+1. Under **Experience Cloud**, select **Launch, by Adobe** and then click **Continue**.
+
+
+
+1. Select **New Integration** for fresh setup and click on **Continue**.
+
+
+
+1. In the [AEM instance](http://localhost:4502) in a new window and click **Tools > Security > Adobe IMS Configurations**.
+
+
+
+1. Create a new Adobe IMS Configuration certificate as shown below:
+
+
+
+1. Download the public key certificate by clicking on **Download Public Key**. This certificate needs to be uploaded in the Adobe I/O console integration.
 
 
 
 
+1. On the I/O Console Integration window, click **Select a file** and upload the **AEM-Adobe-IMS.crt** in Public Key Certificates.
 
 
 
-
-Option 1: Launch with AEM 6.4
-Go to https://console.adobe.io
-
-Click on "New Integration".
+1. On the **Overview** tab, copy the **Client ID** and **Client Secret**. Then copy the **JWT Payload** and **Authorization Server** info from **JWT** tab.
 
 
 
-Select "Access an API" and click on continue.
-
-
-
-Select "Launch, by Adobe" and click on continue.
-
-
-
-Select "New Integration" for fresh setup and click on continue.
-
-
-
-Open the AEM instance in new window (http://localhost:4502) click on "Tools"->Security→Adobe IMS Configurations.
-
-
-
-Create new Adobe IMS Configuration certificate as shown in below screenshot.
-
-
-
-Download the public key certificate by clicking on "Download Public Key", this certificate needs to be uploaded in the I/O console integration.
-
-
-
-
-
-Come to I/O Console Integration window upload the downloaded AEM-Adobe-IMS.crt in Public Key Certificates.
-
-
-
-Copy the Client ID, Client Secret from Overview and the JWT Payload and Authorization Server info from "JWT" tab.
-
-
-
-Come back to the AEM IMS Configuration next step, fill out details from I/O Console integration. Save the configuration.
+1. Return to the AEM IMS Configuration step and provide the copied details from the I/O Console integration. Save the configuration.
 
 
 
