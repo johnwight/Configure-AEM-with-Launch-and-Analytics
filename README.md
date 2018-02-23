@@ -162,6 +162,7 @@ To configure Launch with AEM 6.4:
 
 1. Create a new configuration under the **We.Retail** website. Select the **Associated Adobe IMS Configuration**, **Company** and **Property** as shown below.
 
+     ![new config](https://user-images.githubusercontent.com/29133525/36579614-3bda612e-1821-11e8-9f55-8c332678c054.png)
 
 
 1. In your AEM instance, click **Sites**, then select **Card View** from upper right corner and click the info properties icon.
