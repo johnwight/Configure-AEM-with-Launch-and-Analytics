@@ -1,4 +1,4 @@
-# Configure-AEM-with-Launch-and-Analytics
+# Configure-AEM-with-Launch
 Connect your Adobe Experience Manager Instance with Launch
 
 The following instructions provide guidance on configuring Adobe Experience Manager (AEM) with Adobe Launch. Although your AEM site may differ from the example site used below, you can use these steps as a guide for setting up your own configuration.
