@@ -233,19 +233,21 @@ To configure Launch with AEM 6.3:
 
 1. Click the **Staging Settings** and **Production Settings** tabs and uncheck the **Use Self Hosting**.
 
-     ![staging](https://user-images.githubusercontent.com/29133525/36580800-ff3684cc-1826-11e8-8425-6ef32042c921.png)
 
 
 1. In Launch > Environments > Staging, copy the header code and replace it in AEM > DTM Configuration Staging Settings Header code section.
 
-     ![production](https://user-images.githubusercontent.com/29133525/36580849-3a12b2be-1827-11e8-9781-6f7d6cb9a214.png)
+     ![staging](https://user-images.githubusercontent.com/29133525/36580800-ff3684cc-1826-11e8-8425-6ef32042c921.png)
 
 
 1. In Launch > Environments > Production, copy the header code and replace it in AEM > DTM Configuration Production Settings Header code section. Click **OK**.
 
+     ![production](https://user-images.githubusercontent.com/29133525/36580849-3a12b2be-1827-11e8-9781-6f7d6cb9a214.png)
 
 
 1. After the configuring, it should appear as shown below. Nake sure the scripts are from Launch environments.
+
+     ![verify](https://user-images.githubusercontent.com/29133525/36580884-72b14356-1827-11e8-886f-2c4311d1a8d7.png)
 
 
 
