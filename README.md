@@ -142,6 +142,7 @@ To configure Launch with AEM 6.4:
 
 1. On the I/O Console Integration window, click **Select a file** and upload the **AEM-Adobe-IMS.crt** in Public Key Certificates.
 
+     ![console integration](https://user-images.githubusercontent.com/29133525/36579313-99283e20-181f-11e8-9b43-2689e269f998.png)
 
 
 1. On the **Overview** tab, copy the **Client ID** and **Client Secret**. Then copy the **JWT Payload** and **Authorization Server** info from **JWT** tab.
