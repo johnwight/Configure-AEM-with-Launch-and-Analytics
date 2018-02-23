@@ -238,6 +238,7 @@ To configure Launch with AEM 6.3:
 
 1. In Launch > Environments > Staging, copy the header code and replace it in AEM > DTM Configuration Staging Settings Header code section.
 
+     ![production](https://user-images.githubusercontent.com/29133525/36580849-3a12b2be-1827-11e8-9781-6f7d6cb9a214.png)
 
 
 1. In Launch > Environments > Production, copy the header code and replace it in AEM > DTM Configuration Production Settings Header code section. Click **OK**.
