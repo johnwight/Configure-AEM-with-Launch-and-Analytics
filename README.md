@@ -231,7 +231,7 @@ To configure Launch with AEM 6.3:
      ![previous dummy](https://user-images.githubusercontent.com/29133525/36580703-95669bae-1826-11e8-9a11-bacbb596c069.png)
 
 
-1. Click Staging Settings and Production Settings and uncheck the **Use Self Hosting**.
+1. Click the **Staging Settings** and **Production Settings** tabs and uncheck the **Use Self Hosting**.
 
 
 
