@@ -167,7 +167,7 @@ To configure Launch with AEM 6.4:
 
 1. In your AEM instance, click **Sites**, then select **Card View** from upper right corner and click the info properties icon.
 
-     ![card view](https://user-images.githubusercontent.com/29133525/36579659-7bbad698-1821-11e8-8098-74fbc797c27b.png)
+     ![card view 2](https://user-images.githubusercontent.com/29133525/36580982-dba6316e-1827-11e8-8c6d-e868b2cf6ffd.png)
 
 
 1. On the **Advanced** tab, select **Cloud Configuration**.
@@ -253,6 +253,7 @@ To configure Launch with AEM 6.3:
 
 1. In your [AEM instance](http://localhost:4502/), click **Sites**, and open the page in **Card View** from the upper right corner.
 
+     ![card view 2](https://user-images.githubusercontent.com/29133525/36580982-dba6316e-1827-11e8-8c6d-e868b2cf6ffd.png)
 
 
 1. Click the **Properties** icon for the website that you want to connect to Launch.
