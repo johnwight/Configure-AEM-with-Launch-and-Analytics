@@ -131,6 +131,7 @@ To configure Launch with AEM 6.4:
 
 1. Create a new Adobe IMS Configuration certificate as shown below:
 
+     ![ims cert](https://user-images.githubusercontent.com/29133525/36579164-e5475af8-181e-11e8-9004-50bc91c77303.png)
 
 
 1. Download the public key certificate by clicking on **Download Public Key**. This certificate needs to be uploaded in the Adobe I/O console integration.
