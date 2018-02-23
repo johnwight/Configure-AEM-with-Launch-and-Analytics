@@ -194,6 +194,8 @@ To configure Launch with AEM 6.3:
 
 1. In your [DTM account](dtm.adobe.com), create a dummy empty property **Adobe_Launch**. Please do not customize this property as we are not using it in our integration.
 
+     ![dummy report](https://user-images.githubusercontent.com/29133525/36580228-a2bae5dc-1824-11e8-8131-a5560b94ad79.png)
+
 
 
 1. In your [AEM instance](http://localhost:4502/), click on **Tools** or the Hammer icon in the left panel.
