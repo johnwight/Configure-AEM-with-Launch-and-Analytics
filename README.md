@@ -223,6 +223,7 @@ To configure Launch with AEM 6.3:
 1. Paste the API token to AEM > DTM Configuration window and click **Connect To DTM**.
 
      ![paste](https://user-images.githubusercontent.com/29133525/36580572-0182bd78-1826-11e8-85a8-ce432e007aa8.png)
+     ![connection successful](https://user-images.githubusercontent.com/29133525/36580641-4b063100-1826-11e8-8213-20f9502df972.png)
 
 
 1. Select the company and the dummy property that you previously created.
