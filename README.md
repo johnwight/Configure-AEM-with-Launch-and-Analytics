@@ -157,6 +157,7 @@ To configure Launch with AEM 6.4:
 
 1. In your AEM Instance, click **Tools > Cloud Services >Adobe Launch Configurations**.
 
+     ![adobe launch configurations](https://user-images.githubusercontent.com/29133525/36579566-f0bc04ae-1820-11e8-905d-13b171456feb.png)
 
 
 1. Create a new configuration under the **We.Retail** website. Select the **Associated Adobe IMS Configuration**, **Company** and **Property** as shown below.
